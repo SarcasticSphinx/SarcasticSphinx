@@ -1,4 +1,4 @@
-# Toha | Software Developer & AI Enthusiast  
+# Toha | Front-end Developer & AI Enthusiast  
 
 🎓 **Computer Science Student at RUET**  
 💻 **Passionate about AI, Web Development, and Cybersecurity**  
