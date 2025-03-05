@@ -1,33 +1,25 @@
-# Hi there, I'm Toha! 👋
+# Toha | Software Developer & AI Enthusiast  
 
-🚀 **Aspiring AI & Web Developer | CS Student at RUET**  
-🎯 **Exploring Machine Learning, DSA, and Cybersecurity (CTF)**  
-🌱 **Currently working on: [Plantify](https://github.com/hazardous-wizard/Plantify) - An AI-powered plant identification project**  
-💻 **Tech Stack:** JavaScript, React, Python, Java, C++, Tailwind CSS  
-🔍 **Interested in:** AI, Web Development, Cybersecurity  
-
----
-
-### 🔗 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/hazardous-wizard)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://hazardous-wizard.github.io/)  
+🎓 **Computer Science Student at RUET**  
+💻 **Passionate about AI, Web Development, and Cybersecurity**  
+📌 **Currently working on:** [Plantify](https://github.com/SarcasticSphinx/Plantify) - AI-powered plant identification  
+🚀 **Tech Stack:** Python, Java, C++, JavaScript (React), Tailwind CSS  
+🎯 **Interests:** Machine Learning, Web Development, DSA, Capture The Flag (CTF)  
 
 ---
 
-### 📊 GitHub Stats  
-![Toha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazardous-wizard&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazardous-wizard&layout=compact&theme=radical)  
+### 📬 Get in Touch  
+- **GitHub:** [SarcasticSphinx](https://github.com/SarcasticSphinx)  
+- **LinkedIn:** [linkedin.com/in/suhailahmed-toha](https://www.linkedin.com/in/suhailahmed-toha-92b1a0314/)  
 
 ---
 
-### 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=hazardous-wizard&theme=radical&no-frame=true&margin-w=15)  
+### 📜 Latest Projects  
+🔹 [**Morse Code Exam Platform**](https://github.com/SarcasticSphinx/MorseCode) – A web-based Morse code testing system.  
+🔹 [**Plantify**](https://github.com/SarcasticSphinx/Plantify) – AI-powered plant recognition from leaf images.  
+🔹 [**Expense Tracker**](https://github.com/SarcasticSphinx/ExpenseTracker) – A personal finance management tool.  
 
 ---
 
-### ⚡ Fun Fact  
-_"I talk in Morse Code now... but only in my React projects!"_  
+🚀 *Always learning, always building.*  
 
----
-💡 *"Keep coding, keep building!"*
