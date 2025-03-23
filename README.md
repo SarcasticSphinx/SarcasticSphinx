@@ -19,7 +19,7 @@
 🔹[**Chatty**](https://github.com/SarcasticSphinx/Chatty) – A web-based real-time chatting app.  
 
 🔹 [**Morse Code Exam Platform**](https://github.com/SarcasticSphinx/MorseCode) – A web-based Morse code testing system.  
-🔹 [**Plantify**](https://github.com/SarcasticSphinx/Plantify) – AI-powered plant recognition from leaf images.  
+🔹 [**Plantify**](https://github.com/SarcasticSphinx/Plantify) – An e-commerce website for tress and plants.  
 🔹 [**Expense Tracker**](https://github.com/SarcasticSphinx/ExpenseTracker) – A personal finance management tool.  
 
 ---
