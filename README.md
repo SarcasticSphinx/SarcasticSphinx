@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=TOHA&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=FULL-STACK%20DEVELOPER%20%7C%20BACKEND%20%7C%20PRODUCT%20BUILDER&descAlignY=60&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=TOHA&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=FULL-STACK%20DEVELOPER%20%7C%20BACKEND%20%7C%20OPEN%20TO%20LEARNING&descAlignY=60&descSize=15" width="100%" />
 
 <br/>
 
-<a href="https://github.com/SarcasticSphinx">
+<a href="https://github.com/SarcasticSphinx" target="_blank" rel="noopener noreferrer">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Building+products+that+people+actually+use;Backend+systems+%7C+Search+%7C+Caching+%7C+Queues;Currently+learning+Security+%2B+MCP+%2B+AI+tooling" alt="Typing animation" />
 </a>
 
 <br/>
 
-<a href="https://github.com/SarcasticSphinx"><img src="https://img.shields.io/badge/GitHub-SarcasticSphinx-161b22?style=for-the-badge&logo=github" /></a> <a href="https://www.linkedin.com/in/suhailahmed-toha-92b1a0314/"><img src="https://img.shields.io/badge/LinkedIn-Toha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.fourbtech.com/"><img src="https://img.shields.io/badge/Building%20at-FourBtech-238636?style=for-the-badge" /></a>
+<a href="https://github.com/SarcasticSphinx" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-SarcasticSphinx-161b22?style=for-the-badge&logo=github" /></a> <a href="https://www.linkedin.com/in/suhailahmed-toha-92b1a0314/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Toha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.fourbtech.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Building%20at-FourBtech-238636?style=for-the-badge" /></a>
 
 </div>
 
@@ -54,7 +54,7 @@ learning   : security + MCP + AI
 
 <br/>
 
-## ⚡ Tech Arsenal
+## <img src="https://api.iconify.design/lucide:terminal.svg?color=%2358A6FF" width="20" height="20" /> Tech Arsenal
 
 <div align="center">
 
@@ -80,13 +80,13 @@ learning   : security + MCP + AI
 
 </details>
 
-## 🚀 Things I've Built
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=%23238636" width="20" height="20" /> Things I've Built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://dokango.com/">DokanGo</a>
+### <a href="https://dokango.com/" target="_blank" rel="noopener noreferrer">DokanGo</a>
 
 **E-commerce SaaS for Bangladesh**
 
@@ -96,7 +96,7 @@ An all-in-one platform helping businesses run their online stores, operations, p
 
 <br/>
 
-<a href="https://dokango.com/">↗ Explore DokanGo</a>
+<a href="https://dokango.com/" target="_blank" rel="noopener noreferrer">↗ Explore DokanGo</a>
 
 </td>
 <td width="50%" valign="top">
@@ -118,7 +118,7 @@ A multi-vendor commerce platform combining normal product sales with auction and
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://www.fourbtech.com/">FourBtech</a>
+### <a href="https://www.fourbtech.com/" target="_blank" rel="noopener noreferrer">FourBtech</a>
 
 **Production software, not tutorial projects.**
 
@@ -150,7 +150,7 @@ Working as a Web Developer building real products and digital solutions across m
 </tr>
 </table>
 
-## 🧠 Currently Exploring
+## <img src="https://api.iconify.design/lucide:brain.svg?color=%23A371F7" width="20" height="20" /> Currently Exploring
 
 <div align="center">
 
@@ -159,14 +159,6 @@ Working as a Web Developer building real products and digital solutions across m
 </div>
 
 I'm going deeper into how production systems fail, how to secure them properly, and how modern AI tools can interact with real software systems.
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarcasticSphinx&bg_color=0d1117&color=58a6ff&line=238636&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub activity graph" />
-
-</div>
 
 <br/>
 
@@ -180,11 +172,11 @@ I'm going deeper into how production systems fail, how to secure them properly, 
 
 </div>
 
-## `>_ contact --interactive`
+## <img src="https://api.iconify.design/lucide:terminal.svg?color=%2358A6FF" width="20" height="20" /> Contact
 
 <div align="center">
 
-<a href="https://github.com/SarcasticSphinx"><img src="https://img.shields.io/badge/Follow-GitHub-161b22?style=for-the-badge&logo=github" /></a> <a href="https://www.linkedin.com/in/suhailahmed-toha-92b1a0314/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.fourbtech.com/"><img src="https://img.shields.io/badge/Visit-FourBtech-238636?style=for-the-badge" /></a>
+<a href="https://github.com/SarcasticSphinx" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Follow-GitHub-161b22?style=for-the-badge&logo=github" /></a> <a href="https://www.linkedin.com/in/suhailahmed-toha-92b1a0314/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.fourbtech.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Visit-FourBtech-238636?style=for-the-badge" /></a>
 
 <br/><br/>
 
@@ -194,5 +186,3 @@ Always building. Always learning.
 ```
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
