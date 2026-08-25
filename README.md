@@ -1,115 +1,198 @@
-# Hi, I'm Toha
+<div align="center">
 
-<p align="center">
-  <strong>Full-Stack Developer · Backend Enthusiast · Product Builder</strong>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=TOHA&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=FULL-STACK%20DEVELOPER%20%7C%20BACKEND%20%7C%20PRODUCT%20BUILDER&descAlignY=60&descSize=15" width="100%" />
 
-<p align="center">
-  I build web products, backend systems, and the infrastructure that keeps them running.
-</p>
+<br/>
 
-```text
-toha@github:~$ whoami
+<a href="https://github.com/SarcasticSphinx">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Building+products+that+people+actually+use;Backend+systems+%7C+Search+%7C+Caching+%7C+Queues;Currently+learning+Security+%2B+MCP+%2B+AI+tooling" alt="Typing animation" />
+</a>
 
-Suhail Ahmed Toha
-Computer Science @ RUET
-Web Developer @ FourBtech
+<br/>
 
-toha@github:~$ focus
+<a href="https://github.com/SarcasticSphinx"><img src="https://img.shields.io/badge/GitHub-SarcasticSphinx-161b22?style=for-the-badge&logo=github" /></a> <a href="https://www.linkedin.com/in/suhailahmed-toha-92b1a0314/"><img src="https://img.shields.io/badge/LinkedIn-Toha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.fourbtech.com/"><img src="https://img.shields.io/badge/Building%20at-FourBtech-238636?style=for-the-badge" /></a>
 
-→ production-grade web applications
-→ backend architecture & APIs
-→ search, caching & background jobs
-→ application security
-→ MCP & AI-powered applications
-```
+</div>
 
-I like building things that solve real problems — especially SaaS products, e-commerce platforms, and backend systems where architecture, performance, reliability, and developer experience actually matter.
+<br/>
 
-## What I Work With
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-### Languages
-
-`TypeScript` `JavaScript` `Python` `Java`
-
-### Frontend
-
-`React` `Next.js` `Tailwind CSS`
-
-### Backend
-
-`Node.js` `NestJS` `REST APIs`
-
-### Databases & Search
-
-`PostgreSQL` `MySQL` `Redis` `Elasticsearch` `Neon`
-
-### Tools & Infrastructure
-
-`Docker` `Prisma` `BullMQ` `Cloudinary` `Git`
-
-## Featured Work
-
-### DokanGo — E-commerce SaaS
-
-An e-commerce SaaS platform built specifically for businesses in Bangladesh, focused on making online selling simpler through storefronts, business management, payments, delivery, accounting, and automation.
-
-**Areas:** E-commerce · SaaS · Business Management · Payments · Automation
-
-→ [dokango.com](https://dokango.com/)
-
----
-
-### Multi-vendor E-commerce & Auction Platform
-
-A marketplace platform combining traditional multi-vendor e-commerce with an auction and bidding system.
-
-**Highlights:**
-
-* Multi-vendor architecture
-* Auction and bidding workflows
-* Elasticsearch-powered search
-* Redis caching
-* Background job processing with queues
-* Cloud-based media management
-* Backend architecture designed for scale
-
-**Stack:** `NestJS` `PostgreSQL` `Prisma` `Redis` `Elasticsearch` `BullMQ` `Docker`
-
----
-
-### FourBtech
-
-Building production web applications and digital products as a Web Developer at FourBtech, working across modern frontend and backend technologies.
-
-→ [fourbtech.com](https://www.fourbtech.com/)
-
-## Currently Learning
+### `~/about`
 
 ```text
-Application Security
-        ↓
-Secure Authentication & Authorization
-        ↓
-Production Backend Architecture
-        ↓
-MCP & AI Tooling
+name       : Suhail Ahmed Toha
+alias      : Toha
+role       : Full-Stack Developer
+education  : Computer Science @ RUET
+work       : Web Developer @ FourBtech
+
+building   : SaaS + e-commerce
+interested : backend systems
+learning   : security + MCP + AI
 ```
 
-I'm currently going deeper into application security and exploring how MCP and modern AI tooling can be integrated into real-world software systems.
+</td>
+<td width="50%" valign="top">
 
-## A Few Things I Care About
+### `~/engineering`
 
-* Writing maintainable code instead of just making things work
-* Designing APIs and backend systems that can grow with the product
-* Using the right data store for the problem
-* Understanding performance instead of blindly optimizing
-* Building features that are useful to actual users
+```text
+01  APIs & backend architecture
+02  Search & data modelling
+03  Redis & performance
+04  Queues & background jobs
+05  Production infrastructure
+06  Security & AI tooling
+```
 
-## Let's Connect
+</td>
+</tr>
+</table>
 
-<p>
-  <a href="https://github.com/SarcasticSphinx">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/suhailahmed-toha-92b1a0314/">LinkedIn</a> ·
-  <a href="https://www.fourbtech.com/">FourBtech</a>
-</p>
+<br/>
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,tailwind,nodejs,nestjs,postgres,mysql,redis,elasticsearch,prisma,docker,git&perline=8" alt="Tech stack" />
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>More about the stack</b></summary>
+
+| Area           | Technologies                            |
+| -------------- | --------------------------------------- |
+| Languages      | TypeScript · JavaScript · Python · Java |
+| Frontend       | React · Next.js · Tailwind CSS          |
+| Backend        | Node.js · NestJS · REST APIs            |
+| Data           | PostgreSQL · MySQL · Redis · Neon       |
+| Search         | Elasticsearch                           |
+| ORM / Jobs     | Prisma · BullMQ                         |
+| Infrastructure | Docker · Git                            |
+| Services       | Cloudinary                              |
+
+</details>
+
+## 🚀 Things I've Built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://dokango.com/">DokanGo</a>
+
+**E-commerce SaaS for Bangladesh**
+
+An all-in-one platform helping businesses run their online stores, operations, payments, delivery, accounting and automation.
+
+`SaaS` `E-commerce` `Business` `Automation`
+
+<br/>
+
+<a href="https://dokango.com/">↗ Explore DokanGo</a>
+
+</td>
+<td width="50%" valign="top">
+
+### Multi-vendor + Auction
+
+**Marketplace with real-time-ish workflows**
+
+A multi-vendor commerce platform combining normal product sales with auction and bidding functionality.
+
+`NestJS` `PostgreSQL` `Redis` `Elasticsearch` `BullMQ`
+
+<br/>
+
+**Built:** search · caching · queues · media · marketplace logic
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://www.fourbtech.com/">FourBtech</a>
+
+**Production software, not tutorial projects.**
+
+Working as a Web Developer building real products and digital solutions across modern frontend and backend technologies.
+
+`Web` `Backend` `Products`
+
+</td>
+<td width="50%" valign="top">
+
+### What I'm Building Toward
+
+```text
+        ┌──────────────┐
+        │   Products   │
+        └──────┬───────┘
+               ↓
+       ┌───────────────┐
+       │  Backend      │
+       │  Architecture │
+       └───────┬───────┘
+               ↓
+     ┌─────────┴─────────┐
+     ↓                   ↓
+  Security             AI / MCP
+```
+
+</td>
+</tr>
+</table>
+
+## 🧠 Currently Exploring
+
+<div align="center">
+
+`Application Security`  →  `Secure APIs`  →  `Production Systems`  →  `MCP`  →  `AI Tooling`
+
+</div>
+
+I'm going deeper into how production systems fail, how to secure them properly, and how modern AI tools can interact with real software systems.
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarcasticSphinx&bg_color=0d1117&color=58a6ff&line=238636&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub activity graph" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+## `>_ contact --interactive`
+
+<div align="center">
+
+<a href="https://github.com/SarcasticSphinx"><img src="https://img.shields.io/badge/Follow-GitHub-161b22?style=for-the-badge&logo=github" /></a> <a href="https://www.linkedin.com/in/suhailahmed-toha-92b1a0314/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.fourbtech.com/"><img src="https://img.shields.io/badge/Visit-FourBtech-238636?style=for-the-badge" /></a>
+
+<br/><br/>
+
+```text
+$ echo "Always building. Always learning."
+Always building. Always learning.
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
